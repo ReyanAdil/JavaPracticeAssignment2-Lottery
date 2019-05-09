@@ -7,5 +7,6 @@ Here’s the catch, you will need to make sure there are no duplicate numbers (e
 Go ahead and either download or clone the whole repository to a local computer. 
 Alternatively you can copy paste the URL: https://github.com/pulse18812/JavaPracticeAssignment2-Lottery to your IDE and import the whole resource on to the IDE itself to start working.
 Comments are provided to help understand the files better.
+You can use the source files to continue the assignment or make your own code. Like the lotterySolution.java uploaded I have uploaded.
 
  **Happy coding!!**
