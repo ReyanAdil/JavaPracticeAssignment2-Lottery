@@ -11,7 +11,9 @@ You can use the source files to continue the assignment or make your own code. L
 Here's the sample Input and expected Output for a better understanding.
 
 Please enter six numbers(1-49) one by one
+
 **INPUT:**
+
 Enter Number 1: 45
 
 Enter Number 2: 42
