@@ -32,8 +32,11 @@ Enter Number 6: 11
 
 **OUTPUT:**
 Your Input Numbers: [45, 42, 24, 31, 43, 11]
+
 Lucky Numbers were: [43, 46, 12, 24, 11, 45]
+
 Matched Lottery: [45, 24, 43, 11]
+
 
 Congratulations!! You have 4 lucky match(es) 
 
