@@ -17,6 +17,7 @@ Enter Number 1: 45
 Enter Number 2: 42
 
 Enter Number 3: 42
+
 Invalid Input, Cannot enter same number more than once, Try Again.
 
 Enter Number 3: 24
@@ -26,6 +27,7 @@ Enter Number 4: 31
 Enter Number 5: 43
 
 Enter Number 6: 412567
+
 Invalid input. Try Again.
 
 Enter Number 6: 11
